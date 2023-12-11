@@ -8,13 +8,15 @@ Currently exploring the realms of data manipulation, visualization, and predicti
 🚀 **Key Skills:** Python (Mainly- NumPy, Pandas, Scikit-Learn, TensorFlow, Streamlit), SQL, Data Visualization, Machine Learning, Tableau, Power BI, Statistical Analysis.
 
 👨‍💻 **Projects Portfolio:**
+
+- **Object Detection System**: Real-time object detection using YOLOv5.
 - **Breast Cancer Classification App**: Early detection through machine learning models.
-- **Credit Card Fraud Detection**: Guarding financial security with ML.
-- **Email/SMS Spam Classifier**: Identifying and predicting spam messages.
 - **Heart Stroke Prediction**: Utilizing data for early stroke identification.
 - **Movie Recommendation System**: Simplifying movie choices through personalized suggestions.
-- **Object Detection System**: Real-time object detection using YOLOv5.
 - **Weather App**: Fetching real-time weather information via APIs.
+- **Email/SMS Spam Classifier**: Identifying and predicting spam messages.
+- **Credit Card Fraud Detection**: Guarding financial security with ML.
+
 
 🚀 **Entrepreneurial Experience:** Co-founded and managed operations at Machao, a B2B startup specializing in wholesale distribution of premium apparel. Led the development of a platform catering to businesses seeking bulk purchases of customized T-shirts.
 
