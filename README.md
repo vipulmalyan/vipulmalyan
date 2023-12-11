@@ -28,6 +28,6 @@ Currently exploring the realms of data manipulation, visualization, and predicti
 
 🌐 **Portfolio:** Explore my portfolio - [Portfolio](http://vipulmalyan.portfolial.com)
 
-📫 **How to Reach Me:** Connect with me via [LinkedIn](www.google.com) or drop me an email at malyanvipul@gmail.com.
+📫 **How to Reach Me:** Connect with me via [LinkedIn](linkedin.com/in/vipulmalyan) or drop me an email at malyanvipul@gmail.com.
 
 Let's connect, learn, and innovate together! 🌟
