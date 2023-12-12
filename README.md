@@ -5,7 +5,7 @@ Currently exploring the realms of data manipulation, visualization, and predicti
 
 🌱 **Currently Learning:** Enhancing skills in machine learning algorithms and diving deeper into data analytics.
 
-🚀 **Key Skills:** Python (Mainly- NumPy, Pandas, Scikit-Learn, TensorFlow, Streamlit), SQL, Data Visualization, Machine Learning, Tableau, Power BI, Statistical Analysis.
+🚀 **Key Skills:** Python (Mainly- NumPy, Pandas, Scikit-Learn, TensorFlow, Streamlit), SQL, Data Visualization (Tableau, Power BI), Machine Learning, Statistical Analysis.
 
 👨‍💻 **Projects Portfolio:**
 
