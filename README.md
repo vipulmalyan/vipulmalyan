@@ -235,14 +235,6 @@ Angular • Spring Boot • Java • MySQL • JPA • JWT • Azure MSAL • Se
 # 📈 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vipulmalyan&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulmalyan&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulmalyan&theme=tokyonight" />
 </p>
 
