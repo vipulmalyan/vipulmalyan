@@ -17,10 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vipulmalyan" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://vipulmalyan.netlify.app/" target="blank">
-🌐
-</a>
+</a> LinkedIn: vipulmalyan
 </p>
 
 📧 Email: malyanvipul@gmail.com
