@@ -2,8 +2,6 @@
 
 ### Software Engineer | Full Stack Developer | AI Enthusiast
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 🚀 Building scalable enterprise applications, AI-powered platforms, and modern web experiences.
 
 - 💼 Software Engineer at LTIMindtree
@@ -20,8 +18,8 @@
 <a href="https://linkedin.com/in/vipulmalyan" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="https://github.com/vipulmalyan" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<a href="https://vipulmalyan.netlify.app/" target="blank">
+🌐
 </a>
 </p>
 
