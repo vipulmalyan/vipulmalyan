@@ -14,11 +14,8 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/vipulmalyan" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a> LinkedIn: vipulmalyan
-</p>
+
+LinkedIn: https://linkedin.com/in/vipulmalyan
 
 📧 Email: malyanvipul@gmail.com
 
