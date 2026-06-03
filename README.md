@@ -1,33 +1,106 @@
-### Hi there, I'm Vipul Malyan!  👋
+# Hi 👋, I'm Vipul Malyan
 
-I'm a passionate Computer Science Engineer with a deep interest in the world of Data Science and its transformative potential.
-Currently exploring the realms of data manipulation, visualization, and predictive modeling.
+### Software Engineer | Java & Spring Boot Developer | Angular Developer | AI Enthusiast
 
-🌱 **Currently Learning:** Enhancing skills in machine learning algorithms and diving deeper into data analytics.
+🚀 Building scalable enterprise applications, modern web platforms, and AI-powered solutions.
 
-🚀 **Key Skills:** Python (Mainly- NumPy, Pandas, Scikit-Learn, TensorFlow, Streamlit), SQL, Data Visualization (Tableau, Power BI), Machine Learning, Statistical Analysis.
+---
 
-👨‍💻 **Projects Portfolio:**
+## 👨‍💻 About Me
 
-- **Object Detection System**: Real-time object detection using YOLOv5.
-- **Breast Cancer Classification App**: Early detection through machine learning models.
-- **Heart Stroke Prediction**: Utilizing data for early stroke identification.
-- **Movie Recommendation System**: Simplifying movie choices through personalized suggestions.
-- **Weather App**: Fetching real-time weather information via APIs.
-- **Email/SMS Spam Classifier**: Identifying and predicting spam messages.
-- **Credit Card Fraud Detection**: Guarding financial security with ML.
+- 💼 Software Engineer at LTIMindtree
+- 🏦 Working on Banking & Financial Services and AI Native Platforms
+- 🌱 Exploring Generative AI, RAG, LangChain, and LLM-powered applications
+- ⚡ Passionate about Backend Development, System Design, and Full Stack Engineering
+- 🎯 Goal: Build impactful products that solve real-world problems
 
+---
 
-🚀 **Entrepreneurial Experience:** Co-founded and managed operations at Machao, a B2B startup specializing in wholesale distribution of premium apparel. Led the development of a platform catering to businesses seeking bulk purchases of customized T-shirts.
+## 🛠️ Tech Stack
 
-🎨 **Design Thinking Club:** Co-founded and led a Design Thinking Club aimed at educating members on the principles of design thinking. Conducted workshops and discussions emphasizing innovation and problem-solving through a user-centric approach.
+### Languages
+Java
+Python
+SQL
+JavaScript
+TypeScript
 
-🏆 **Achievements:** Emerged victorious in Segue Design Thinking Challenge, secured First Position in Drone Carnival Competition, and completed numerous data science certifications from reputed institutions.
+### Backend
+Spring Boot
+Django
+REST API
 
-🤝 **Looking to Collaborate:** Open to collaborative projects related to data analysis, machine learning, software development, business intelligence, entrepreneurial ventures, and design thinking initiatives.
+### Frontend
+Angular
+Vue.js
+React
 
-🌐 **Portfolio:** Explore my portfolio - [Portfolio](http://vipulmalyan.portfolial.com)
+### AI & LLM
+LangChain
+Google Gemini
+RAG
+Vector DB
 
-📫 **How to Reach Me:** Connect with me via [LinkedIn](https://www.linkedin.com/in/vipulmalyan/) or drop me an email at malyanvipul@gmail.com.
+### Databases
+PostgreSQL
+MongoDB
+Redis
 
-Let's connect, learn, and innovate together! 🌟
+### DevOps & Tools
+Docker
+GitHub Actions
+Kafka
+Git
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 BlueVerse Opsight
+AI-powered IT Operations Intelligence Platform
+
+- Multi-tenant architecture
+- ServiceNow & Jira integrations
+- Incident analytics and dashboards
+- RAG-powered chatbot
+- LangChain + Gemini integration
+- Docker & CI/CD deployment pipelines
+
+### 🔹 CitiOps Portal
+Enterprise Employee Lifecycle Management System
+
+- Spring Boot REST APIs
+- Angular standalone architecture
+- JWT & Azure MSAL authentication
+- Selenium + Cucumber automation
+- Workforce onboarding and management workflows
+
+---
+
+## 📜 Certifications
+
+🏆 Oracle Certified Professional: Java SE 11 Developer
+
+🏆 Databricks Certified Data Engineer Associate
+
+---
+
+## 📈 GitHub Stats
+
+Vipul's GitHub stats
+
+Top Languages
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/vipulmalyan
+- 📧 Email: malyanvipul@gmail.com
+- 💻 GitHub: https://github.com/vipulmalyan
+
+---
+
+### ✨ Favorite Quote
+
+> "Success is not about becoming better than someone else. It's about becoming better than you were yesterday
