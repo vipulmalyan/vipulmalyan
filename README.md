@@ -16,8 +16,6 @@
   <a href="mailto:malyanvipul@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-malyanvipul@gmail.com-EA4335?style=flat-square&logo=gmail" />
   </a>
-
-  <img src="https://komarev.com/ghpvc/?username=vipulmalyan&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 </div>
@@ -49,16 +47,10 @@
   <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,mysql" />
 </p>
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend & Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,django,fastapi" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,react,vue,nextjs,html,css" />
+  <img src="https://skillicons.dev/icons?i=spring,django,fastapi,angular,react,vue,nextjs,html,css" />
 </p>
 
 ### 🗄️ Databases & Caching
