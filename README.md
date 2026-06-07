@@ -1,24 +1,24 @@
 <div align="left">
 
-# 👋 Hey, I'm Vipul Malyan
+# 👋 Hey, I'm Vipul Malyan!
 
-### Software Engineer • Full Stack Developer • AI Engineer
+### Software Engineer • Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+Enterprise+Applications;Spring+Boot+%7C+Angular+%7C+AI;Generative+AI+%7C+RAG+%7C+LangChain;Turning+Ideas+Into+Products" />
+<p>
+  <a href="https://vipulmalyan.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-vipulmalyan.netlify.app-111827?style=flat-square&logo=vercel" />
+  </a>
 
-<br/>
+  <a href="https://linkedin.com/in/vipulmalyan">
+    <img src="https://img.shields.io/badge/LinkedIn-Vipul_Malyan-0A66C2?style=flat-square&logo=linkedin" />
+  </a>
 
-<a href="https://vipulmalyan.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-black?style=for-the-badge&logo=vercel"/>
-</a>
+  <a href="mailto:malyanvipul@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-malyanvipul@gmail.com-EA4335?style=flat-square&logo=gmail" />
+  </a>
 
-<a href="https://linkedin.com/in/vipulmalyan">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:malyanvipul@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
+  <img src="https://komarev.com/ghpvc/?username=vipulmalyan&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</p>
 
 </div>
 
@@ -26,7 +26,21 @@
 
 ## 🚀 About Me
 
-java public class VipulMalyan {      String role = "Software Engineer";      String[] interests = {         "Backend Development",         "System Design",         "Generative AI",         "Full Stack Engineering"     };      String[] currentlyWorkingOn = {         "Banking Platforms",         "AI Native Applications",         "Enterprise Automation"     };      String mission =         "Build technology that improves lives."; } 
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+🔹 Software Engineer passionate about scalable systems
+
+🔹 Building Banking & Financial Services Applications
+
+🔹 Exploring Generative AI, RAG & Agentic Workflows
+
+🔹 Full Stack Developer (Angular • Spring Boot • AI)
+
+🔹 Enthusiast of Backend Engineering & System Design
+
+🔹 Mission: Build technology that improves lives
+
+<br clear="right"/>
 
 ---
 
