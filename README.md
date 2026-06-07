@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # 👋 Hey, I'm Vipul Malyan
 
@@ -91,28 +91,8 @@ java public class VipulMalyan {      String role = "Software Engineer";      Str
 
 ---
 
-## 🌱 Current Focus
-
-- Agentic AI Systems
-- Advanced RAG Architectures
-- Enterprise AI Platforms
-- Distributed Systems
-- Cloud Native Development
-
----
-
 ## 💡 Quote
 
 > "Success is not measured by the technology you build, but by the lives you improve through it."
-
----
-
-<div align="center">
-
-### ⭐ Thanks for stopping by!
-
-Visitors
-
-￼
 
 </div>
