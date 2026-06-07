@@ -30,13 +30,9 @@
 
 🔹 Software Engineer passionate about scalable systems
 
-🔹 Building Banking & Financial Services Applications
+🔹 Enthusiast of Backend Engineering & System Design
 
 🔹 Exploring Generative AI, RAG & Agentic Workflows
-
-🔹 Full Stack Developer (Angular • Spring Boot • AI)
-
-🔹 Enthusiast of Backend Engineering & System Design
 
 🔹 Mission: Build technology that improves lives
 
@@ -88,14 +84,6 @@
   <img src="https://img.shields.io/badge/AI_Agents-9C27B0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-E53935?style=for-the-badge" />
 </p>
-
----
-
-## 🏆 Certifications
-
-🥇 Oracle Certified Professional — Java SE 11
-
-🥇 Databricks Data Engineer Associate
 
 ---
 
