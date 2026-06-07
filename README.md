@@ -43,49 +43,37 @@
 ---
 ## ⚡ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,mysql" />
 </p>
 
-### Backend & APIs
+### ⚙️ Backend & APIs
 
 <p>
   <img src="https://skillicons.dev/icons?i=spring,django,fastapi" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=angular,react,vue,nextjs,html,css" />
 </p>
 
-### Databases & Caching
+### 🗄️ Databases & Caching
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
 </p>
 
-### Cloud, DevOps & Infrastructure
+### ☁️ Cloud, DevOps & Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,azure,githubactions,git,github,linux" />
 </p>
 
-### Messaging & Enterprise Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kafka" />
-</p>
-
-### Testing & Automation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=selenium" />
-</p>
-
-### Developer Tools
+### 🛠️ Developer Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman,maven" />
