@@ -4,22 +4,28 @@
 
 🚀 Building scalable enterprise applications, AI-powered platforms, and modern web experiences.
 
-- 💼 Software Engineer at LTIMindtree
+- 💼 Software Engineer
 - 🏦 Working on Banking & Financial Services and AI Native Platforms
-- 🌱 Exploring Generative AI, LangChain, RAG, and LLM Engineering
 - ⚡ Passionate about Backend Development, System Design, Cloud Technologies, and Full Stack Engineering
+- 🌱 Exploring Generative AI, LangChain, RAG, and LLM Engineering
 - 🎯 Goal: Build impactful products that improve lives through technology
 
 ---
 
-## 🌐 Connect With Me
+## 🔎 Connect With Me
 
+<p align="left">
+  <a href="https://linkedin.com/in/vipulmalyan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Vipul%20Malyan-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:malyanvipul@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://vipulmalyan.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
-LinkedIn: https://linkedin.com/in/vipulmalyan
-
-📧 Email: malyanvipul@gmail.com
-
-🌐 Portfolio: https://vipulmalyan.netlify.app/
 
 ---
 
@@ -244,8 +250,6 @@ Angular • Spring Boot • Java • MySQL • JPA • JWT • Azure MSAL • Se
 
 - Advanced System Design
 - AI Agents & Agentic Workflows
-- Spring Cloud Ecosystem
-- Kubernetes
 - Advanced RAG Architectures
 - LLM Evaluation Frameworks
 
