@@ -1,22 +1,24 @@
 <div align="center">
 
-# Hi there 👋 I'm Vipul Malyan
+# 👋 Hey, I'm Vipul Malyan
 
 ### Software Engineer • Full Stack Developer • AI Engineer
 
-Building enterprise-grade applications, AI-powered products, and scalable cloud-native systems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+Enterprise+Applications;Spring+Boot+%7C+Angular+%7C+AI;Generative+AI+%7C+RAG+%7C+LangChain;Turning+Ideas+Into+Products" />
 
-<p>
-  <a href="https://linkedin.com/in/vipulmalyan">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:malyanvipul@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://vipulmalyan.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
+<br/>
+
+<a href="https://vipulmalyan.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://linkedin.com/in/vipulmalyan">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:malyanvipul@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
 
@@ -24,129 +26,93 @@ Building enterprise-grade applications, AI-powered products, and scalable cloud-
 
 ## 🚀 About Me
 
-yaml Name: Vipul Malyan Role: Software Engineer Focus:   - Backend Engineering   - Full Stack Development   - Generative AI   - System Design  Currently Working On:   - Banking & Financial Services Platforms   - AI Native Enterprise Applications  Currently Learning:   - Agentic AI Systems   - Advanced RAG Architectures   - LLM Evaluation Frameworks  Mission:   Build technology that improves lives and creates opportunities. 
+java public class VipulMalyan {      String role = "Software Engineer";      String[] interests = {         "Backend Development",         "System Design",         "Generative AI",         "Full Stack Engineering"     };      String[] currentlyWorkingOn = {         "Banking Platforms",         "AI Native Applications",         "Enterprise Automation"     };      String mission =         "Build technology that improves lives."; } 
 
 ---
 
-## 🛠 Tech Arsenal
+## ⚡ Tech Stack
 
 ### Languages
 
-Java
-Python
-JavaScript
-TypeScript
-MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,mysql"/>
+</p>
 
-### Backend & APIs
+### Backend
 
-Spring
-Django
-NodeJS
-
-Spring Boot • Hibernate • JPA • REST APIs • JWT • OAuth2 • Microservices
+<p>
+<img src="https://skillicons.dev/icons?i=spring,django,nodejs"/>
+</p>
 
 ### Frontend
 
-Angular
-React
-Vue
-NextJS
-
-### AI & LLM
-
-LangChain • LangSmith • Gemini • RAG • Vector Databases • Prompt Engineering • Semantic Search • AI Agents
-
-### Databases
-
-Postgres
-MongoDB
-Redis
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,vue,nextjs,html,css"/>
+</p>
 
 ### Cloud & DevOps
 
-Docker
-Azure
-Github
-Git
-GithubActions
+<p>
+<img src="https://skillicons.dev/icons?i=docker,azure,githubactions,git,github,linux"/>
+</p>
 
----
+### Databases
 
-## 🌟 Featured Projects
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql"/>
+</p>
 
-### 🤖 BlueVerse Opsight
+## 🤖 AI & LLM
 
-AI-powered IT Operations Intelligence Platform
-
-✨ Highlights
-
-- Multi-tenant SaaS Architecture
-- ServiceNow & Jira Integrations
-- MTTA / MTTR Analytics
-- Redis Caching
-- Celery Background Processing
-- LangChain + Gemini Chatbot
-- Enterprise RAG Implementation
-- Dockerized Deployments
-- GitHub Actions CI/CD
-
-Stack: Python • Django • PostgreSQL • Redis • Vue.js • Docker • LangChain • Gemini
-
----
-
-### 🏦 CitiOps Portal
-
-Enterprise Workforce & Employee Lifecycle Platform
-
-✨ Highlights
-
-- Employee Onboarding & Offboarding
-- Angular Migration (v10 → v20)
-- Azure MSAL SSO
-- JWT Authentication
-- Spring Boot REST APIs
-- Selenium Automation Framework
-- Workforce Management Modules
-
-Stack: Angular • Spring Boot • Java • MySQL • Azure MSAL • Selenium • Cucumber
+<p>
+  <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangSmith-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_DB-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Semantic_Search-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-9C27B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-E53935?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🏆 Certifications
 
-- Oracle Certified Professional — Java SE 11 Developer
-- Databricks Certified Data Engineer Associate
+🥇 Oracle Certified Professional — Java SE 11
+
+🥇 Databricks Data Engineer Associate
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Contributions Summary
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulmalyan&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vipulmalyan&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulmalyan&layout=compact&theme=tokyonight" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vipulmalyan&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-## 🌱 2026 Focus
+## 🌱 Current Focus
 
-- AI Agents & Agentic Workflows
+- Agentic AI Systems
+- Advanced RAG Architectures
 - Enterprise AI Platforms
 - Distributed Systems
-- Cloud-Native Architecture
-- Advanced System Design
+- Cloud Native Development
+
+---
+
+## 💡 Quote
+
+> "Success is not measured by the technology you build, but by the lives you improve through it."
 
 ---
 
 <div align="center">
 
-### 💡 “Technology should not only solve problems — it should create opportunities.”
+### ⭐ Thanks for stopping by!
 
-⭐ Thanks for visiting my profile!
+Visitors
+
+￼
 
 </div>
