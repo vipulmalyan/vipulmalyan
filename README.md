@@ -1,5 +1,3 @@
-<div align="left">
-
 # 👋 Hey, I'm Vipul Malyan!
 
 ### Software Engineer • Full Stack Developer
@@ -97,9 +95,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vipulmalyan&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 ---
-
-## 💡 Quote
-
-> "Success is not measured by the technology you build, but by the lives you improve through it."
-
-</div>
