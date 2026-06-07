@@ -30,6 +30,8 @@
 
 🔹 Software Engineer passionate about scalable systems
 
+🔹 Worked across Banking & Financial Service and AI Native Business Units
+
 🔹 Enthusiast of Backend Engineering & System Design
 
 🔹 Exploring Generative AI, RAG & Agentic Workflows
