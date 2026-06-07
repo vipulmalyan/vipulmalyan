@@ -1,264 +1,152 @@
-# Hi 👋, I'm Vipul Malyan
+<div align="center">
 
-### Software Engineer | Full Stack Developer | AI Enthusiast
+# Hi there 👋 I'm Vipul Malyan
 
-🚀 Building scalable enterprise applications, AI-powered platforms, and modern web experiences.
+### Software Engineer • Full Stack Developer • AI Engineer
 
-- 💼 Software Engineer
-- 🏦 Working on Banking & Financial Services and AI Native Platforms
-- ⚡ Passionate about Backend Development, System Design, Cloud Technologies, and Full Stack Engineering
-- 🌱 Exploring Generative AI, LangChain, RAG, and LLM Engineering
-- 🎯 Goal: Build impactful products that improve lives through technology
+Building enterprise-grade applications, AI-powered products, and scalable cloud-native systems.
 
----
-
-## 🔎 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/vipulmalyan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Vipul%20Malyan-0A66C2?style=for-the-badge&logo=linkedin" />
+<p>
+  <a href="https://linkedin.com/in/vipulmalyan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:malyanvipul@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://vipulmalyan.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel" />
+  <a href="https://vipulmalyan.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" />
   </a>
 </p>
 
+</div>
 
 ---
 
-# 💻 Tech Stack
+## 🚀 About Me
 
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
-</p>
-
-- Java
-- Python
-- SQL
-- JavaScript
-- TypeScript
+yaml Name: Vipul Malyan Role: Software Engineer Focus:   - Backend Engineering   - Full Stack Development   - Generative AI   - System Design  Currently Working On:   - Banking & Financial Services Platforms   - AI Native Enterprise Applications  Currently Learning:   - Agentic AI Systems   - Advanced RAG Architectures   - LLM Evaluation Frameworks  Mission:   Build technology that improves lives and creates opportunities. 
 
 ---
 
-## Backend Development
+## 🛠 Tech Arsenal
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,django,nodejs" />
-</p>
+### Languages
 
-- Spring Boot
-- Spring Security
-- Hibernate / JPA
-- REST APIs
-- JWT Authentication
-- OAuth 2.0
-- Microservices
-- Django
-- Node.js
+Java
+Python
+JavaScript
+TypeScript
+MySQL
 
----
+### Backend & APIs
 
-## Frontend Development
+Spring
+Django
+NodeJS
 
-<p>
-<img src="https://skillicons.dev/icons?i=angular,react,vuejs,nextjs,html,css,bootstrap" />
-</p>
+Spring Boot • Hibernate • JPA • REST APIs • JWT • OAuth2 • Microservices
 
-- Angular
-- React
-- Vue.js
-- Next.js
-- HTML5
-- CSS3
-- TypeScript
-- Responsive UI Design
-- Reactive Forms
-- Lazy Loading
+### Frontend
 
----
+Angular
+React
+Vue
+NextJS
 
-## AI & LLM Engineering
+### AI & LLM
 
-🤖 Generative AI Stack
+LangChain • LangSmith • Gemini • RAG • Vector Databases • Prompt Engineering • Semantic Search • AI Agents
 
-- LangChain
-- LangSmith
-- Google Gemini
-- Gemini Embeddings
-- Retrieval Augmented Generation (RAG)
-- Vector Databases
-- Semantic Search
-- Prompt Engineering
-- Structured Query Generation
-- Response Streaming
-- AI Chatbot Development
-- Evaluation Frameworks
-- Grounded Faithfulness Evaluation
+### Databases
+
+Postgres
+MongoDB
+Redis
+
+### Cloud & DevOps
+
+Docker
+Azure
+Github
+Git
+GithubActions
 
 ---
 
-## Databases
+## 🌟 Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
-</p>
-
-- PostgreSQL
-- MongoDB
-- MySQL
-- Redis
-
----
-
-## Cloud, DevOps & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,azure,git,github,maven" />
-</p>
-
-- Docker
-- GitHub Actions
-- CI/CD Pipelines
-- Microsoft Azure
-- Git
-- GitHub
-- Apache Maven
-- Docker Compose
-- Linux
-
----
-
-## Messaging & Enterprise Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=kafka" />
-</p>
-
-- Apache Kafka
-- Apache ActiveMQ
-- ServiceNow
-- Jira
-- Keycloak
-- Azure MSAL
-- Enterprise Integrations
-- Multi-Tenant Architecture
-
----
-
-## Testing & Automation
-
-<p>
-<img src="https://skillicons.dev/icons?i=selenium" />
-</p>
-
-- Selenium
-- Cucumber
-- JUnit
-- API Testing
-- Data Driven Testing
-- Automation Framework Development
-
----
-
-## Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman" />
-</p>
-
-- VS Code
-- IntelliJ IDEA
-- Eclipse
-- Postman
-- Thunder Client
-- SQL Workbench
-
----
-
-# 🚀 Featured Projects
-
-## 🔹 BlueVerse Opsight
+### 🤖 BlueVerse Opsight
 
 AI-powered IT Operations Intelligence Platform
 
-### Highlights
+✨ Highlights
 
-- Multi-tenant architecture
-- ServiceNow integration
-- Jira integration
-- Deep operational analytics
-- MTTA & MTTR reporting
-- Incident lifecycle management
-- APPM Problem Record workflows
-- Celery background processing
-- Redis caching
-- Docker deployments
+- Multi-tenant SaaS Architecture
+- ServiceNow & Jira Integrations
+- MTTA / MTTR Analytics
+- Redis Caching
+- Celery Background Processing
+- LangChain + Gemini Chatbot
+- Enterprise RAG Implementation
+- Dockerized Deployments
 - GitHub Actions CI/CD
-- LangChain + Gemini powered chatbot
-- RAG implementation with vector embeddings
 
-### Tech Stack
-
-Python • Django • PostgreSQL • Redis • Vue.js • Docker • LangChain • Google Gemini
+Stack: Python • Django • PostgreSQL • Redis • Vue.js • Docker • LangChain • Gemini
 
 ---
 
-## 🔹 CitiOps Portal
+### 🏦 CitiOps Portal
 
-Enterprise Employee Lifecycle Management Platform
+Enterprise Workforce & Employee Lifecycle Platform
 
-### Highlights
+✨ Highlights
 
-- Employee onboarding workflows
-- Workforce management
-- Offboarding automation
-- Angular migration v10 → v20
-- Standalone architecture
-- Secure REST APIs
-- JWT Authentication
+- Employee Onboarding & Offboarding
+- Angular Migration (v10 → v20)
 - Azure MSAL SSO
-- Selenium Automation Suite
+- JWT Authentication
+- Spring Boot REST APIs
+- Selenium Automation Framework
+- Workforce Management Modules
 
-### Tech Stack
-
-Angular • Spring Boot • Java • MySQL • JPA • JWT • Azure MSAL • Selenium • Cucumber
-
----
-
-# 🏆 Certifications
-
-🥇 Oracle Certified Professional: Java SE 11 Developer
-
-🥇 Databricks Certified Data Engineer Associate
+Stack: Angular • Spring Boot • Java • MySQL • Azure MSAL • Selenium • Cucumber
 
 ---
 
-# 📈 GitHub Stats
+## 🏆 Certifications
+
+- Oracle Certified Professional — Java SE 11 Developer
+- Databricks Certified Data Engineer Associate
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulmalyan&theme=tokyonight" />
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vipulmalyan&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulmalyan&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
-# 🌱 Currently Learning
+## 🌱 2026 Focus
 
-- Advanced System Design
 - AI Agents & Agentic Workflows
-- Advanced RAG Architectures
-- LLM Evaluation Frameworks
+- Enterprise AI Platforms
+- Distributed Systems
+- Cloud-Native Architecture
+- Advanced System Design
 
 ---
 
-# ⚡ Fun Fact
+<div align="center">
 
-> I believe technology should not just solve problems — it should improve lives and create opportunities for others.
+### 💡 “Technology should not only solve problems — it should create opportunities.”
 
----
+⭐ Thanks for visiting my profile!
 
-### Thanks for visiting my profile! 🚀
+</div>
