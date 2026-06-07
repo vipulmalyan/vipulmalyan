@@ -41,49 +41,72 @@
 <br clear="right"/>
 
 ---
-
 ## ⚡ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,mysql"/>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,mysql" />
 </p>
 
-### Backend
+### Backend & APIs
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,django,nodejs"/>
+  <img src="https://skillicons.dev/icons?i=spring,django,fastapi" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=angular,react,vue,nextjs,html,css"/>
+  <img src="https://skillicons.dev/icons?i=angular,react,vue,nextjs,html,css" />
 </p>
 
-### Cloud & DevOps
+### Databases & Caching
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,azure,githubactions,git,github,linux"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
 </p>
 
-### Databases
+### Cloud, DevOps & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql"/>
+  <img src="https://skillicons.dev/icons?i=docker,azure,githubactions,git,github,linux" />
 </p>
 
-## 🤖 AI & LLM
+### Messaging & Enterprise Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka" />
+</p>
+
+### Testing & Automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium" />
+</p>
+
+### Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman,maven" />
+</p>
+
+---
+
+## 🤖 AI & LLM Engineering
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/LangSmith-0F172A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector_DB-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_Databases-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Semantic_Search-00C853?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI_Agents-9C27B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-7B1FA2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-E53935?style=for-the-badge" />
 </p>
 
