@@ -92,6 +92,6 @@
 
 ## 📈 GitHub Contributions Summary
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vipulmalyan&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<img src="./profile/streak.svg" alt="GitHub Streak"/>
 
 ---
