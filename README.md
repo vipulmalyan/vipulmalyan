@@ -32,8 +32,6 @@
 
 🔹 Exploring Generative AI, RAG & Agentic Workflows
 
-🔹 Mission: Build technology that improves lives
-
 <br clear="right"/>
 
 ---
